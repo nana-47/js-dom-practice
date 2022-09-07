@@ -1,0 +1,19 @@
+table {
+    border: solid;
+    background-color: #BDB76B;
+}
+
+td {
+    text-align: center;
+    background-color: lightgrey;
+    width: 40px;
+}
+
+.title {
+    background-color: #d2691e;
+    color: #ffffff;
+}
+
+.display {
+    text-align: right;
+}
